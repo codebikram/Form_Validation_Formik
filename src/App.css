@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 730px !important;
+  margin: 10px auto;
+}
+.heading {
+  text-transform: capitalize;
+}
+.radio-btn {
+  display: flex;
+  gap: 10px;
+}
+.mr-1 {
+  margin-right: 5px;
+}
+.mr-2 {
+  margin-right: 10px;
+}
